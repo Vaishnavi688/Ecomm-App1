@@ -4,7 +4,7 @@ name : Continuous Deployment
 on :
   push:
     # only when there is a push on main branch
-    branches : ["main"]    
+    branches : ["backendd"]    
 
 jobs:
   build-and-deploy:
