@@ -18,6 +18,8 @@
     "build:frontend": "cd frontend && npm run build"
   },
   "devDependencies": {
-    "concurrently": "^8.2.2"
+    "@types/node": "^25.2.3",
+    "concurrently": "^8.2.2",
+    "vite": "^7.3.1"
   }
 }
